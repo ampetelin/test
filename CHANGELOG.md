@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.2.0 (2025-04-17)
+
+### Bug Fixes
+
+- Fix hello world message
+  ([`c0380ba`](https://github.com/ampetelin/test/commit/c0380baf6661916a2a17e177b73366474329a34c))
+
+### Features
+
+- Add test
+  ([`b16a355`](https://github.com/ampetelin/test/commit/b16a355b08cbb5c3f2cc4521d5b5647b3182ba26))
+
+
 ## v0.1.1 (2025-04-17)
 
 ### Bug Fixes
