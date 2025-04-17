@@ -1,6 +1,17 @@
 # CHANGELOG
 
 
+## v0.1.1 (2025-04-17)
+
+### Bug Fixes
+
+- Fix version variables
+  ([`29923c9`](https://github.com/ampetelin/test/commit/29923c9fe5156c0f32d8e7f4f037350c2b0ab5a3))
+
+- Fix version variables
+  ([`9d650cb`](https://github.com/ampetelin/test/commit/9d650cb80749ba7179994a84cd5de075c9d00c0e))
+
+
 ## v0.1.0 (2025-04-17)
 
 ### Bug Fixes
