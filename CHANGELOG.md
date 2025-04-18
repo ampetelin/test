@@ -1,6 +1,17 @@
 # CHANGELOG
 
 
+## v0.3.1 (2025-04-18)
+
+### Bug Fixes
+
+- Test fix 1
+  ([`e5bfee1`](https://github.com/ampetelin/test/commit/e5bfee15335b1672efe8cf19b11985bd2c757091))
+
+- Test fix 2
+  ([`c8ebfda`](https://github.com/ampetelin/test/commit/c8ebfdaeff19ec9c20a95e7692c2cd5cece6b013))
+
+
 ## v0.3.0 (2025-04-18)
 
 ### Bug Fixes
