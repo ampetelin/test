@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.3.0 (2025-04-18)
+
+### Bug Fixes
+
+- Add features in test.py
+  ([`fd923fd`](https://github.com/ampetelin/test/commit/fd923fd837d4e30201833546da62c53695f0d954))
+
+### Features
+
+- Add features in test.py
+  ([`eb54716`](https://github.com/ampetelin/test/commit/eb547163b2d47eb56b3b9238d73e653de08c8a72))
+
+
 ## v0.2.0 (2025-04-17)
 
 ### Bug Fixes
